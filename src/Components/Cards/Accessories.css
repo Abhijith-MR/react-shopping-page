@@ -1,0 +1,17 @@
+.AccessoriesPic {
+    border-radius: 15px;
+    width: 210px;
+    height: 210px;
+    margin: 20px;
+    box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+   
+   
+
+}
+.AccessoriesInfo{
+    padding-right: 650px;
+    display: flex;
+    flex-direction: row;
+    
+
+}
